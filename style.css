@@ -1,3 +1,67 @@
 * {
   font-family: "Inter", sans-serif;
 }
+.nav-div {
+  /* Navigation */
+width: 1920px;
+height: 91px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 24px 135px 24px 135px;
+  
+}
+.logo {
+  /* Green Earth */
+  width: 135.98px;
+  height: 17.96px;
+  color: #FFFFFF;
+}
+.nav-options {
+  /* Navigation */
+width: 1920px;
+height: 91px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 24px 135px 24px 135px;
+
+
+}
+.nav-btn {
+  /* Frame 2 */
+width: 131px;
+height: 43px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: undefined;
+padding: 12px 20px 12px 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
